@@ -1,0 +1,13 @@
+:root {
+  --color-grey: #797a80;
+  --color-light-grey: #f8f8f8;
+}
+
+
+body {
+  background-color: rgb(238, 246, 253);
+}
+
+.card {
+  border: 1px solid var(--color-grey)
+}
